@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Director of Molecular Processing and Automation, <a href='https://www.aurekabio.com/'>Aureka Biotechnologies</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Aureka Biotechnologies, Inc.</p>
+    <p>Irvine, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I believe the future of science lies in the co-evolution of synthetic biology and AI. My work focuses on tackling one of the field's central challenges -- data scarcity -- by developing next-generation synthetic biology tools that integrate with machine learning. This dual approach enables us not only to answer fundamental biological questions, but also to accelerate translation into real therapies, diagnostics, and engineered living systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am Director of Molecular Processing and Automation at [Aureka Biotechnologies](https://www.aurekabio.com/), where I lead the design, optimization, and automation of molecular workflows for high-throughput antibody and protein engineering. Previously, I was Synthetic Biology & AI Lead Scientist at [MEDNA Scientific](https://www.mednascientific.com/), driving AI-guided strategies for protein design and manufacturing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Trained in Biotechnology and Biochemical Engineering (PhD, [University of Oxford](https://www.ox.ac.uk/); Postdoctoral Fellow, [MIT Collins Lab](https://collinslab.mit.edu/)), I specialize in RNA therapeutics, synthetic cells, and AI-driven molecular design. I also held fellowships at [Flagship Pioneering](https://www.flagshippioneering.com/) and [ByteDance](https://www.bytedance.com/) (VoyagerX). My earlier education includes an MRes in Synthetic and Systems Biology from [Imperial College London](https://www.imperial.ac.uk/) and a BSc in Biotechnology from [UCL](https://www.ucl.ac.uk/).

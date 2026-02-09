@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-15 10:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined **Aureka Biotechnologies** as Director of Molecular Processing and Automation, leading high-throughput antibody and protein engineering workflows in Irvine, CA.
