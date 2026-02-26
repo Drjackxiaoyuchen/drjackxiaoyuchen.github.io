@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-bookshelf",
           title: "bookshelf",
-          description: "Books I have read, am reading, or plan to read.",
+          description: "A curated reading list across science, technology, and ideas.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
