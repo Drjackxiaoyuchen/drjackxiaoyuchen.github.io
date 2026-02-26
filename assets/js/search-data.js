@@ -68,11 +68,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/a_life_on_our_planet/";
-            },},{id: "books-a-planet-of-viruses",
-          title: 'A Planet of Viruses',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/a_planet_of_viruses/";
             },},{id: "books-chaos-making-a-new-science",
           title: 'Chaos: Making a New Science',
           description: "",
@@ -113,11 +108,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/life_on_the_edge/";
-            },},{id: "books-machines-of-loving-grace",
-          title: 'Machines of Loving Grace',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/machines_of_loving_grace/";
             },},{id: "books-our-mathematical-universe-my-quest-for-the-ultimate-nature-of-reality",
           title: 'Our Mathematical Universe: My Quest for the Ultimate Nature of Reality',
           description: "",
@@ -128,21 +118,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/parasite_rex/";
-            },},{id: "books-probable-impossibilities-musings-on-beginnings-and-endings",
-          title: 'Probable Impossibilities: Musings on Beginnings and Endings',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/probable_impossibilities/";
             },},{id: "books-rapport-the-four-ways-to-read-people",
           title: 'Rapport: The Four Ways to Read People',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rapport/";
-            },},{id: "books-selected-works-of-mao-zedong",
-          title: 'Selected Works of Mao Zedong',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/selected_works_of_mao_zedong/";
             },},{id: "books-seven-brief-lessons-on-physics",
           title: 'Seven Brief Lessons on Physics',
           description: "",
@@ -178,16 +158,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_beginning_of_infinity/";
+            },},{id: "books-the-complete-short-stories",
+          title: 'The Complete Short Stories',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_complete_short_stories_asimov/";
             },},{id: "books-the-creation-of-inequality-how-our-prehistoric-ancestors-set-the-stage-for-monarchy-slavery-and-empire",
           title: 'The Creation of Inequality: How Our Prehistoric Ancestors Set the Stage for Monarchy,...',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_creation_of_inequality/";
+            },},{id: "books-the-elephant-vanishes-stories",
+          title: 'The Elephant Vanishes: Stories',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_elephant_vanishes/";
             },},{id: "books-the-evolution-of-everything-how-new-ideas-emerge",
           title: 'The Evolution of Everything: How New Ideas Emerge',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_evolution_of_everything/";
+            },},{id: "books-the-great-unknown-seven-journeys-to-the-frontiers-of-science",
+          title: 'The Great Unknown: Seven Journeys to the Frontiers of Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_great_unknown/";
             },},{id: "books-the-hitchhiker-39-s-guide-to-the-galaxy",
           title: 'The Hitchhiker&amp;#39;s Guide to the Galaxy',
           description: "",
@@ -208,41 +203,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_rational_optimist/";
-            },},{id: "books-the-singularity-is-nearer",
-          title: 'The Singularity Is Nearer',
+            },},{id: "books-the-singularity-is-near-when-humans-transcend-biology",
+          title: 'The Singularity Is Near: When Humans Transcend Biology',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_singularity_is_nearer/";
+              window.location.href = "/books/the_singularity_is_near/";
             },},{id: "books-the-vital-question-energy-evolution-and-the-origins-of-complex-life",
           title: 'The Vital Question: Energy, Evolution, and the Origins of Complex Life',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_vital_question/";
-            },},{id: "books-the-wandering-earth",
-          title: 'The Wandering Earth',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_wandering_earth/";
             },},{id: "books-the-way-life-works",
           title: 'The Way Life Works',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_way_life_works/";
-            },},{id: "books-the-world-as-i-see-it",
-          title: 'The World as I See It',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_world_as_i_see_it/";
             },},{id: "books-thinking-fast-and-slow",
           title: 'Thinking, Fast and Slow',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thinking_fast_and_slow/";
-            },},{id: "books-what-we-cannot-know-explorations-at-the-edge-of-knowledge",
-          title: 'What We Cannot Know: Explorations at the Edge of Knowledge',
+            },},{id: "books-what-makes-us-human",
+          title: 'What Makes Us Human?',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/what_we_cannot_know/";
+              window.location.href = "/books/what_makes_us_human/";
             },},{id: "news-selected-as-one-of-100-leaders-of-tomorrow-at-the-gap-summit-2020-biotech-conference-in-cambridge-uk",
           title: 'Selected as one of 100 Leaders of Tomorrow at the Gap Summit 2020...',
           description: "",
