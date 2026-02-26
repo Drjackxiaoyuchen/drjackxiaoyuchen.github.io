@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-The novel that coined 'metaverse' and 'avatar'. Stephenson's vision of a fragmented, corporate-run America where the most dangerous weapon is a linguistic virus remains disturbingly prescient thirty years later.
+The novel that coined 'metaverse' and 'avatar'. Stephenson's vision of a fragmented, corporate-run America where the most dangerous weapon is a linguistic virus remains disturbingly prescient.

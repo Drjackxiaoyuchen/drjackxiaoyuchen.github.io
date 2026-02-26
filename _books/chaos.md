@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-The book that brought chaos theory to the public. Gleick captures the excitement of scientists discovering that disorder has its own deep structure — and that a butterfly's wings really can change the weather.
+The book that brought chaos theory to the public. Gleick captures the excitement of scientists discovering that disorder has its own deep structure — a butterfly's wings really can change the weather.

@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-One of the most visually inventive biology books ever made. Hoagland and Dodson explain the molecular machinery of life through elegant analogy and stunning illustration, making the invisible world of cells suddenly tangible.
+One of the most visually inventive biology books ever made. Hoagland and Dodson explain the molecular machinery of life through elegant analogy and stunning illustration.

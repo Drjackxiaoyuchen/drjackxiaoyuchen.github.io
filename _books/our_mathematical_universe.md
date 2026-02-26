@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Tegmark's audacious argument that not only is the universe described by mathematics — it *is* mathematics. The multiverse chapters are thrilling, and even readers who resist the conclusion will find their assumptions productively challenged.
+Tegmark's audacious argument that not only is the universe described by mathematics — it *is* mathematics. Thrilling and thought-provoking even for readers who resist the conclusion.

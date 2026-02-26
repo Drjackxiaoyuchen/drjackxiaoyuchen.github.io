@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Ridley uses game theory and evolutionary biology to explain why humans cooperate at all, and what that means for how we build institutions. A counterpoint to both naive altruism and cynical selfishness.
+Ridley uses game theory and evolutionary biology to explain why humans cooperate at all. A counterpoint to both naive altruism and cynical selfishness.

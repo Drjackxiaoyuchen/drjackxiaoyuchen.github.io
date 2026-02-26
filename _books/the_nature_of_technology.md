@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Arthur dismantles the myth that technology is just applied science, revealing instead that technology evolves the way biology does — through combination and recombination. A must-read for anyone thinking about innovation and the future.
+Arthur dismantles the myth that technology is just applied science, revealing instead that it evolves the way biology does — through combination and recombination. Essential reading for anyone thinking seriously about innovation.

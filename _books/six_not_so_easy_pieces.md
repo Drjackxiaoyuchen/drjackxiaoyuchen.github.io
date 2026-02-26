@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Feynman explaining relativity and symmetry in his own inimitable voice — always from first principles, always with a sense of delight in the strangeness of the universe. No other physicist lectures like this.
+Feynman explaining relativity and symmetry in his own inimitable voice — always from first principles, always with a sense of delight in the strangeness of the universe.

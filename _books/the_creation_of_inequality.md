@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-A sweeping archaeological account of how egalitarian hunter-gatherer bands slowly gave way to hierarchical societies. Flannery and Marcus draw on a lifetime of fieldwork to show how inequality is a human invention, not an inevitability.
+A sweeping archaeological account of how egalitarian hunter-gatherer bands gave way to hierarchical societies. Flannery and Marcus draw on a lifetime of fieldwork to show inequality is a human invention.

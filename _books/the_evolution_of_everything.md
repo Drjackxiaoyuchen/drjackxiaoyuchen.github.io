@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Ridley argues that evolution — not top-down design — drives progress in morality, technology, culture, and economics. A provocative and wide-ranging case for emergent order over planned intervention.
+Ridley argues that evolution — not top-down design — drives progress in morality, technology, culture, and economics. A provocative case for emergent order over planned intervention.

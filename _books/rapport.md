@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Based on decades of hostage negotiation and interrogation research, Alison's framework for building genuine human connection is practical and eye-opening. Far more useful than most communication books.
+Based on decades of hostage negotiation and interrogation research, the Alisons' framework for building genuine human connection is practical and eye-opening — far more useful than most communication books.

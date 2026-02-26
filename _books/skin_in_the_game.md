@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Taleb's most practical book: if you don't have something to lose, your opinion is worthless. His argument about risk, accountability, and the asymmetry between those who make decisions and those who bear the consequences is essential.
+If you don't have something to lose, your opinion is worthless. Taleb's argument about risk, accountability, and the asymmetry between decision-makers and those who bear consequences is essential.

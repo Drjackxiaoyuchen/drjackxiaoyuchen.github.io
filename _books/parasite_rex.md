@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Zimmer upends the clean story of evolution to reveal that parasites are not aberrations but central players — shaping behavior, driving speciation, and maybe even steering our own social instincts.
+Zimmer upends the clean story of evolution to reveal that parasites are not aberrations but central players — shaping behavior, driving speciation, and steering our social instincts.

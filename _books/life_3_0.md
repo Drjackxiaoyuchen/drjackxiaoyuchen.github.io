@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Tegmark maps the full landscape of AI futures — from near-term job displacement to far-future superintelligence — with the rigor of a physicist and the clarity of someone who genuinely wants to help humanity get this right.
+Tegmark maps the full landscape of AI futures with the rigor of a physicist and genuine care for getting it right. The most balanced and comprehensive book on what superintelligent AI might mean for humanity.

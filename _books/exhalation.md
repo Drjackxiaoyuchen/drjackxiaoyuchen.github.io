@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Chiang is the master of the idea-driven short story — each one built around a single extraordinary premise explored with philosophical rigor and emotional depth. 'Exhalation' is one of the finest pieces of science fiction ever written.
+Chiang is the master of the idea-driven short story — each one built around a single extraordinary premise explored with philosophical rigor and emotional depth. The title story is one of the finest pieces of SF ever written.

@@ -10,4 +10,4 @@ stars: 4
 status: Finished
 ---
 
-Quantum biology is one of the most surprising frontiers in science. Al-Khalili and McFadden make a compelling case that photosynthesis, bird navigation, and even the origin of mutations are rooted in quantum phenomena.
+A compelling case that photosynthesis, bird navigation, and even the origin of mutations are rooted in quantum phenomena. One of the most surprising frontiers in science, accessibly explained.

@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Kurzgesagt's founder brings his visual storytelling sensibility to prose, creating the most accessible and genuinely thrilling account of the human immune system ever written. You'll never look at a cold the same way again.
+Kurzgesagt's founder brings visual storytelling sensibility to prose, creating the most accessible and genuinely thrilling account of the human immune system ever written.

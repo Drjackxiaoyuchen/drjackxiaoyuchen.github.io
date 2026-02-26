@@ -10,4 +10,4 @@ stars: 5
 status: Finished
 ---
 
-Part memoir, part urgent manifesto. Attenborough recounts watching the natural world transform over nine decades and makes a clear-eyed, hopeful case for how humanity can still course-correct. Deeply moving.
+Part memoir, part urgent manifesto. Attenborough recounts watching the natural world transform over nine decades and makes a clear-eyed, hopeful case for how humanity can still course-correct.
